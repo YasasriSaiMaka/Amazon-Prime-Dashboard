@@ -52,5 +52,3 @@ If you’d like to suggest improvements:
 
 👉 This project highlights **data analysis and visualization skills** using Power BI, focusing on streaming content trends and platform insights. It’s valuable for understanding **content strategy, audience preferences, and entertainment analytics**.
 
-
-Would you like me to include a short **“Key Insights”** section (like top 5 findings from your dashboard, e.g., most popular genre, top countries, etc.)? It makes your README look even more professional.
