@@ -38,7 +38,7 @@ This project analyzes **Amazon Prime Video content** to uncover insights about m
 
 ## 📊 Power BI Dashboard
 
-![Dashboard Preview](Amazon_Prime_Dashboard.jpg)
+![Dashboard Preview](Amazon_Prime_Dashboard.png)
 
 ## 🤝 How to Contribute
 
